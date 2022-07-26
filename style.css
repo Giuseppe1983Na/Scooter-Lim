@@ -1,0 +1,74 @@
+
+body{
+  background-image: url("sfondo.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: arial;
+  font-size: 15px;
+}
+
+.titolo{
+  margin-bottom: 1px;
+
+}
+
+.indirizzo{
+  display: block;
+  margin: 5px;
+}
+
+.logo{
+  text-align: center;
+  margin: 60px;
+
+}
+
+.logo-sim{
+  width: 250px;
+}
+
+.taking{
+  font-size: 35px;
+  color: #00dd00;
+}
+
+.barra-verde{
+  margin:auto;
+  width: 1000px;
+  height: 40px;
+  border: 1px solid #00dd00;
+  background-color: #00dd00;
+
+}
+
+.carica-arancione{
+  width: 500px;
+  height: 35px;
+  border: 1px solid orange;
+  background-color: orange;
+  border-radius: 5px;
+
+}
+
+.carica-verde{
+  width: 600px;
+  height: 35px;
+  border: 1px solid green;
+  background-color: green;
+  border-radius: 5px;
+
+}
+
+.carica-rossa{
+  width: 200px;
+  height: 35px;
+  border: 1px solid #cc020a;
+  background-color: #cc020a;
+  border-radius: 5px;
+
+}
+.scelta-bottoni{
+  text-align: center;
+  padding: 10px;
+}
